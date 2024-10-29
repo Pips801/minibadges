@@ -2,7 +2,7 @@
 All of my Minibadges, including costs, files, and vendors
 
 # 2025
-## Full Color Pipscat 300ct
+## Full Color Pipscat 300ct (IN PROGRESS)
 ### Images
 ![image](https://github.com/user-attachments/assets/04654c43-c13b-4ec5-ac67-ea2cf8351afa)![image](https://github.com/user-attachments/assets/9c3ddc9b-bcc2-4f59-87d0-567777443829)![image](https://github.com/user-attachments/assets/52e8f787-088d-42e5-ac95-118dcf7ca08a)
 
@@ -16,7 +16,7 @@ The whole process sucked, and while I'm excited to have these badges, I am gonna
 |------------------|------|------------|---------------|---------------|---------------|--------------------|
 | JLCPCB           | PCBs |     $35.02 |           300 |         $0.12 |         $0.12 |                  1 |
 
-## Scratch and Sniff 400ct
+## Scratch and Sniff 400ct (IN PROGRESS)
 ### Images
 ![image](https://github.com/user-attachments/assets/cbee667b-3840-4f4f-bb0f-f4776b948ea1)![image](https://github.com/user-attachments/assets/46ba42f4-364f-4d9d-a187-c85b15525e27)![image](https://github.com/user-attachments/assets/c21c1bb8-b414-4963-8a1b-4e3b15d84ba9)
 
