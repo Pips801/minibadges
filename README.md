@@ -2,6 +2,10 @@
 All of my Minibadges, including costs, files, and vendors
 
 # 2025
+
+## Planet Express
+
+
 ## Full Color Pipscat 300ct (IN PROGRESS)
 ### Images
 ![image](https://github.com/user-attachments/assets/04654c43-c13b-4ec5-ac67-ea2cf8351afa)![image](https://github.com/user-attachments/assets/9c3ddc9b-bcc2-4f59-87d0-567777443829)![image](https://github.com/user-attachments/assets/52e8f787-088d-42e5-ac95-118dcf7ca08a)
@@ -45,7 +49,7 @@ Honestly, they all smell bad. (which was the point) I may make a second round th
 
 # 2024
 
-## BLANK_BADGE V3 60ct (White and Black)
+## BLANK_BADGE V3 (White and Black)
 
 ### Images
 ![image](https://github.com/user-attachments/assets/da848e6c-d6d3-41ab-a38e-a57fdb556ebd)![image](https://github.com/user-attachments/assets/ae73d1ac-a693-4155-8e81-cd03cbf72ee7)![image](https://github.com/user-attachments/assets/5f3e7e0c-7c69-4ed6-8fe9-3e3dffd28d1e)![image](https://github.com/user-attachments/assets/e8771448-06cd-4ff2-ab93-40af807d202d)
@@ -70,7 +74,6 @@ Revamped BLANK_BADGE, this time with two different colors. I messed up my board 
 ### Images
 ![image](https://github.com/user-attachments/assets/b663b3c2-18f3-4796-bfb6-f05bf050f539)![image](https://github.com/user-attachments/assets/a734b02b-d512-4935-9912-01f33b9a5807)
 
-
 ### Description
 My first ever circuit board! I made this in under 24 hours, starting at nothing.
 ### BOM
@@ -85,3 +88,5 @@ My first ever circuit board! I made this in under 24 hours, starting at nothing.
 | Project total cost | Per unit total cost | Adjusted quantity | Adjusted total |
 |--------------------|---------------------|-------------------|----------------|
 |             $50.10 |               $1.03 |                30 |         $30.77 |
+
+### Other Details
