@@ -10,24 +10,51 @@ All of my Minibadges, including costs, files, and vendors
 ## Scratch and Sniff
 ### Images
 ![image](https://github.com/user-attachments/assets/cbee667b-3840-4f4f-bb0f-f4776b948ea1)![image](https://github.com/user-attachments/assets/46ba42f4-364f-4d9d-a187-c85b15525e27)
+### Description
+You read that right, a scratch and sniff badge. Stupid idea that came about from 801 Labs. The badge has a very small scratch and sniff sticker overlayed on the front. The sticker will be one of the 5 scents I used for this project, as follows
+- DNS (Wet Dirt)
+- TOR (Onion)
+- Zodiak's Sandals (Cheese)
+- Magic Smoke (Burnt Rubber)
+- Vendor Call (Manure)
 
 # 2024
+
 ## Blank Badge V3 (White and Black)
+
 ### Images
 ![image](https://github.com/user-attachments/assets/da848e6c-d6d3-41ab-a38e-a57fdb556ebd)![image](https://github.com/user-attachments/assets/ae73d1ac-a693-4155-8e81-cd03cbf72ee7)
 
 ### Description
+Revamped BLANK_BADGE, this time with two different colors. I messed up my board shop settings on this one, and they helpfully made them sinly pannels. I tried to get them to do it again but they have minimum sizes and I was unable to intentionally do this again.
 
-## BOM
-
-## Blank Badge V1 (Pips first badge!)
-### Images
-### Description
 ### BOM
-| Item     | Item total | Item quantity | Per item cost | Per unit cost |  Per unit required |
-|----------|------------|---------------|---------------|---------------|--------------------|
-| PCBs     |     $22.48 |            30 |         $0.75 |         $0.75 |                  1 |
-| Bags     |      $5.05 |           100 |         $0.05 |         $0.05 |                  1 |
-| LED      |      $9.99 |           100 |         $0.10 |         $0.10 |                  1 |
-| Resistor |      $7.09 |           100 |         $0.07 |         $0.07 |                  1 |
-| Pins     |      $5.49 |           800 |         $0.01 |         $0.05 |                  8 |
+| Description/Link | Item     | Item total | Item quantity | Per item cost | Per unit cost |  Per unit required |
+|------------------|----------|------------|---------------|---------------|---------------|--------------------|
+| JLCPCB           | PCBs     |     $61.26 |            60 |         $1.02 |         $1.02 |                  1 |
+| Amazon           | Bags     |      $5.05 |           100 |         $0.05 |         $0.05 |                  1 |
+| Amazon           | LED      |      $9.99 |           100 |         $0.10 |         $0.10 |                  1 |
+| Amazon           | Resistor |      $7.09 |           100 |         $0.07 |         $0.07 |                  1 |
+| Amazon           | Pins     |      $5.49 |           800 |         $0.01 |         $0.05 |                  8 |
+
+| Project total cost | Per unit total cost | Adjusted quantity | Adjusted total |
+|--------------------|---------------------|-------------------|----------------|
+|             $88.88 |               $1.30 |                60 |         $77.83 |
+
+## Blank Badge V1 (My first badge!)
+### Images
+Can't find renders, will have to take pictures
+### Description
+My first ever circuit board! I made this in under 24 hours, starting at nothing.
+### BOM
+| Description/Link | Item     | Item total | Item quantity | Per item cost | Per unit cost |  Per unit required |
+|------------------|----------|------------|---------------|---------------|---------------|--------------------|
+| JLCPCB           | PCBs     |     $22.48 |            30 |         $0.75 |         $0.75 |                  1 |
+| Amazon           | Bags     |      $5.05 |           100 |         $0.05 |         $0.05 |                  1 |
+| Amazon           | LED      |      $9.99 |           100 |         $0.10 |         $0.10 |                  1 |
+| Amazon           | Resistor |      $7.09 |           100 |         $0.07 |         $0.07 |                  1 |
+| Amazon           | Pins     |      $5.49 |           800 |         $0.01 |         $0.05 |                  8 |
+
+| Project total cost | Per unit total cost | Adjusted quantity | Adjusted total |
+|--------------------|---------------------|-------------------|----------------|
+|             $50.10 |               $1.03 |                30 |         $30.77 |
