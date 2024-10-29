@@ -3,7 +3,7 @@ All of my Minibadges, including costs, files, and vendors
 
 # 2025
 
-## Bible Study at ABGs
+## Bible Study at ABGs 50ct (IN PROGRESS)
 ### Images
 ![image](https://github.com/user-attachments/assets/767e1c0c-2b04-4ada-bfad-ebff92198caa)![image](https://github.com/user-attachments/assets/8eb27d98-59c7-4b97-ae94-a58c5000708e)![image](https://github.com/user-attachments/assets/4678d3dc-0645-4543-920d-a3a291bbe682)![image](https://github.com/user-attachments/assets/81463409-78f9-47b8-904f-c7d38271fbc2)
 
