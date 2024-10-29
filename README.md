@@ -48,7 +48,9 @@ Honestly, they all smell bad. (which was the point) I may make a second round th
 ## BLANK_BADGE V3 60ct (White and Black)
 
 ### Images
-![image](https://github.com/user-attachments/assets/da848e6c-d6d3-41ab-a38e-a57fdb556ebd)![image](https://github.com/user-attachments/assets/ae73d1ac-a693-4155-8e81-cd03cbf72ee7)
+![image](https://github.com/user-attachments/assets/da848e6c-d6d3-41ab-a38e-a57fdb556ebd)![image](https://github.com/user-attachments/assets/ae73d1ac-a693-4155-8e81-cd03cbf72ee7)![image](https://github.com/user-attachments/assets/5f3e7e0c-7c69-4ed6-8fe9-3e3dffd28d1e)![image](https://github.com/user-attachments/assets/e8771448-06cd-4ff2-ab93-40af807d202d)
+
+
 
 ### Description
 Revamped BLANK_BADGE, this time with two different colors. I messed up my board shop settings on this one, and they helpfully made them sinly pannels. I tried to get them to do it again but they have minimum sizes and I was unable to intentionally do this again.
@@ -66,7 +68,9 @@ Revamped BLANK_BADGE, this time with two different colors. I messed up my board 
 
 ## Blank Badge V1 30ct (My first badge!)
 ### Images
-Can't find renders, will have to take pictures
+![image](https://github.com/user-attachments/assets/b663b3c2-18f3-4796-bfb6-f05bf050f539)![image](https://github.com/user-attachments/assets/a734b02b-d512-4935-9912-01f33b9a5807)
+
+
 ### Description
 My first ever circuit board! I made this in under 24 hours, starting at nothing.
 ### BOM
