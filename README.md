@@ -7,10 +7,19 @@ All of my Minibadges, including costs, files, and vendors
 ### Images
 ![image](https://github.com/user-attachments/assets/767e1c0c-2b04-4ada-bfad-ebff92198caa)![image](https://github.com/user-attachments/assets/8eb27d98-59c7-4b97-ae94-a58c5000708e)![image](https://github.com/user-attachments/assets/4678d3dc-0645-4543-920d-a3a291bbe682)![image](https://github.com/user-attachments/assets/81463409-78f9-47b8-904f-c7d38271fbc2)
 
+### Description
+Sacrilegious Minibadge. You can only get this minibadge if you go to the one bar in provo during SAINTCON. If I see you're from the con, I'll give you one.
 
+### BOM
+| Description/Link  	| Item 	| Item total 	| Item quantity 	| Per item cost 	| Per unit cost 	|  Per unit required 	|
+|-------------------	|------	|------------	|---------------	|---------------	|---------------	|--------------------	|
+| JLCPCB + Assembly 	| PCBs 	|     $33.79 	|            50 	|         $0.68 	|         $0.68 	|                  1 	|
+| Amazon            	| Bags 	|      $5.05 	|           100 	|         $0.05 	|         $0.05 	|                  1 	|
+| Amazon            	| Pins 	|      $5.49 	|           800 	|         $0.01 	|         $0.05 	|                  8 	|
 
-
-
+| Project total cost 	| Per unit total cost 	| Adjusted quantity 	| Adjusted total 	|
+|--------------------	|---------------------	|-------------------	|----------------	|
+|             $44.33 	|               $0.78 	|                50 	|         $39.06 	|
 
 ## Planet Express (IN PROGRESS)
 
