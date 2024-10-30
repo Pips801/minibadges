@@ -3,16 +3,21 @@ All of my Minibadges, including costs, files, and vendors
 
 # 2025
 
+## The Internet (IN PROGRESS)
+### Images
+<img src="https://github.com/user-attachments/assets/6cbca2d6-7022-4d8f-85ed-9585f4527a8c" width="250">
+<img src="" width="250">
+
 ## Hang in there! (IN PROGRESS)
 ### Images
-![image](https://github.com/user-attachments/assets/6e6eb76e-1f35-4c03-a6d4-987a029ab499)![image](https://github.com/user-attachments/assets/a5bd9ae1-ab2a-4a22-8e79-d079594ae271)![image](https://github.com/user-attachments/assets/a635367b-f3d7-4a52-903a-b989c664c5ef)![image](https://github.com/user-attachments/assets/a8d5f0cb-a753-419a-aacb-0ce6fd70642f)
+<img src="https://github.com/user-attachments/assets/e0ebf266-4d0b-4066-b820-fd58bc107ac5" width="250"><img src="https://github.com/user-attachments/assets/f62672cc-61c7-489c-aead-9a3a03464b85" width="250"><img src="https://github.com/user-attachments/assets/23d1eb64-ebc9-498d-9c21-8dca9981c8d7" width="250"><img src="https://github.com/user-attachments/assets/5510bf6a-c367-43f9-8e02-50f838b33cfb" width="250">
 ### Description
 Hang in there! You've got this!
 ### BOM
 
 ## Bible Study at ABGs 50ct (IN PROGRESS)
 ### Images
-![image](https://github.com/user-attachments/assets/767e1c0c-2b04-4ada-bfad-ebff92198caa)![image](https://github.com/user-attachments/assets/8eb27d98-59c7-4b97-ae94-a58c5000708e)![image](https://github.com/user-attachments/assets/4678d3dc-0645-4543-920d-a3a291bbe682)![image](https://github.com/user-attachments/assets/81463409-78f9-47b8-904f-c7d38271fbc2)
+<img src="https://github.com/user-attachments/assets/d0aefcd5-3747-44e0-b03b-7b40c522c6e3" width="250"><img src="https://github.com/user-attachments/assets/7e6c53e6-3f89-4350-b1a6-feac6b65feaa" width="250"><img src="https://github.com/user-attachments/assets/4eb037c2-8ce0-4c06-8224-b4e8afcfd612" width="250"><img src="https://github.com/user-attachments/assets/17b325e7-4fd1-4064-9ab4-307703f829fd" width="250">
 
 ### Description
 Sacrilegious Minibadge. You can only get this minibadge if you go to the one bar in provo during SAINTCON. If I see you're from the con, I'll give you one.
@@ -32,7 +37,7 @@ Sacrilegious Minibadge. You can only get this minibadge if you go to the one bar
 
 ## Full Color Pipscat 300ct (IN PROGRESS)
 ### Images
-![image](https://github.com/user-attachments/assets/04654c43-c13b-4ec5-ac67-ea2cf8351afa)![image](https://github.com/user-attachments/assets/9c3ddc9b-bcc2-4f59-87d0-567777443829)![image](https://github.com/user-attachments/assets/52e8f787-088d-42e5-ac95-118dcf7ca08a)
+<img src="https://github.com/user-attachments/assets/36c81051-5a37-4645-996e-c16b011ad530" width="250"><img src="https://github.com/user-attachments/assets/0585cf0d-47c4-4451-8ec5-77d729fdf8e6" width="250"><img src="https://github.com/user-attachments/assets/f5e4759f-0a56-4f41-a344-ec17038ebf91" width="250"><img src="https://github.com/user-attachments/assets/87f7d7c2-772e-4338-8bfc-441b32c2b9ae" width="250">
 
 ### Description
 Full color silkscreening process. The process sucked, and I was forced to learn EasyEDA in order to generate the files that JLCPCB will accept (surprise, it's super annoying and even if you do it right, it goes wrong.)
@@ -46,7 +51,7 @@ The whole process sucked, and while I'm excited to have these badges, I am gonna
 
 ## Scratch and Sniff 400ct (IN PROGRESS)
 ### Images
-![image](https://github.com/user-attachments/assets/cbee667b-3840-4f4f-bb0f-f4776b948ea1)![image](https://github.com/user-attachments/assets/46ba42f4-364f-4d9d-a187-c85b15525e27)![image](https://github.com/user-attachments/assets/c21c1bb8-b414-4963-8a1b-4e3b15d84ba9)
+<img src="https://github.com/user-attachments/assets/6fd1d7b1-4519-49d2-96d3-e6c677b946db" width="250"><img src="https://github.com/user-attachments/assets/330fbff7-5d63-4fdf-91b3-e32a0c39ce8c" width="250"><img src="https://github.com/user-attachments/assets/39b9e98d-3655-4848-ac54-f78d100db5c2" width="250"><img src="https://github.com/user-attachments/assets/910fcef7-0a5e-4faa-827d-2a35f3711c99" width="250">
 
 ### Description
 A scratch and sniff minibadgebadge. Stupid idea that came about from 801 Labs. The badge has a very small scratch and sniff sticker overlayed on the front. The sticker will be one of the 5 scents I used for this project, as follows
