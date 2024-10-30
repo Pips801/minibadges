@@ -3,6 +3,13 @@ All of my Minibadges, including costs, files, and vendors
 
 # 2025
 
+## Hang in there! (IN PROGRESS)
+### Images
+![image](https://github.com/user-attachments/assets/6e6eb76e-1f35-4c03-a6d4-987a029ab499)![image](https://github.com/user-attachments/assets/a5bd9ae1-ab2a-4a22-8e79-d079594ae271)![image](https://github.com/user-attachments/assets/a635367b-f3d7-4a52-903a-b989c664c5ef)![image](https://github.com/user-attachments/assets/a8d5f0cb-a753-419a-aacb-0ce6fd70642f)
+### Description
+Hang in there! You've got this!
+### BOM
+
 ## Bible Study at ABGs 50ct (IN PROGRESS)
 ### Images
 ![image](https://github.com/user-attachments/assets/767e1c0c-2b04-4ada-bfad-ebff92198caa)![image](https://github.com/user-attachments/assets/8eb27d98-59c7-4b97-ae94-a58c5000708e)![image](https://github.com/user-attachments/assets/4678d3dc-0645-4543-920d-a3a291bbe682)![image](https://github.com/user-attachments/assets/81463409-78f9-47b8-904f-c7d38271fbc2)
