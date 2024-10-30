@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+D1_R,1206,1,LED_R,
+"D2_W, D3_W",1206,2,LED_W,
+R1,1206,1,R_100Ω,
+R2,1206,1,R_10Ω,
+X1,SAINTCON-Minibadge-Simple,1,SAINTCON-Minibadge-Simple,
