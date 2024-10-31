@@ -3,6 +3,13 @@ All of my Minibadges, including costs, files, and vendors
 
 # 2025
 
+## I almost DIED at the CheckPoint party
+### Images
+<img src="https://github.com/user-attachments/assets/839883d2-c180-4d06-9ab2-ffbbb048c373" width="200"><img src="https://github.com/user-attachments/assets/d9dc554d-b73a-4de4-b0af-9ba351320c56" width="200"><img src="https://github.com/user-attachments/assets/db61d35e-f9d8-4075-9604-221e2d6c927d" width="200"><img src="https://github.com/user-attachments/assets/14439840-8977-43e8-bec5-f398740a20a4" width="200">
+
+### Description
+Some poor soul partied so hard at the 2024 checkpoint party that they died. poor guy. This minibadge is in his honor. RIP.
+
 ## The Internet (IN PROGRESS)
 ### Images
 <img src="https://github.com/user-attachments/assets/bdc9a528-c7cc-4c61-a138-0e2cb5c64ee5" width="200"><img src="https://github.com/user-attachments/assets/06986249-0b95-49d2-a412-e8c5b8521219" width="200"><img src="https://github.com/user-attachments/assets/df95dcd5-b4c9-468f-a974-0f9e5e1a7f09" width="200"><img src="https://github.com/user-attachments/assets/c817c62e-828c-4d30-bcb1-b33f0ae049be" width="200"><img src="https://github.com/user-attachments/assets/b4297847-9e83-4e13-8ba7-c305792db8ec" width="200">
