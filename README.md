@@ -7,12 +7,24 @@ All of my Minibadges, including costs, files, and vendors
 ### Images
 <img src="https://github.com/user-attachments/assets/bdc9a528-c7cc-4c61-a138-0e2cb5c64ee5" width="250"><img src="https://github.com/user-attachments/assets/06986249-0b95-49d2-a412-e8c5b8521219" width="250"><img src="https://github.com/user-attachments/assets/df95dcd5-b4c9-468f-a974-0f9e5e1a7f09" width="250"><img src="https://github.com/user-attachments/assets/c817c62e-828c-4d30-bcb1-b33f0ae049be" width="250"><img src="https://github.com/user-attachments/assets/b4297847-9e83-4e13-8ba7-c305792db8ec" width="250">
 
+### Description
+This, Jen, is the Internet. 
+
+### BOM
+| Description/Link 	| Item 	| Item total 	| Item quantity 	| Per item cost 	| Per unit cost 	|  Per unit required 	|
+|------------------	|------	|------------	|---------------	|---------------	|---------------	|--------------------	|
+| JLCPCB           	| PCBs 	|      $9.93 	|           100 	|         $0.10 	|         $0.10 	|                  1 	|
+| Amazon           	| LEDs 	|      $5.99 	|           100 	|         $0.06 	|         $0.06 	|                  1 	|
+
 ## Hang in there! (IN PROGRESS)
 ### Images
 <img src="https://github.com/user-attachments/assets/e0ebf266-4d0b-4066-b820-fd58bc107ac5" width="250"><img src="https://github.com/user-attachments/assets/f62672cc-61c7-489c-aead-9a3a03464b85" width="250"><img src="https://github.com/user-attachments/assets/23d1eb64-ebc9-498d-9c21-8dca9981c8d7" width="250"><img src="https://github.com/user-attachments/assets/5510bf6a-c367-43f9-8e02-50f838b33cfb" width="250">
 ### Description
 Hang in there! You've got this!
 ### BOM
+| Description/Link  	| Item 	| Item total 	| Item quantity 	| Per item cost 	| Per unit cost 	|  Per unit required 	|
+|-------------------	|------	|------------	|---------------	|---------------	|---------------	|--------------------	|
+| JLCPCB + Assembly 	| PCBs 	|    $130.80 	|           400 	|         $0.33 	|         $0.33 	|                  1 	|
 
 ## Bible Study at ABGs 50ct (IN PROGRESS)
 ### Images
