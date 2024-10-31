@@ -5,8 +5,7 @@ All of my Minibadges, including costs, files, and vendors
 
 ## The Internet (IN PROGRESS)
 ### Images
-<img src="https://github.com/user-attachments/assets/6cbca2d6-7022-4d8f-85ed-9585f4527a8c" width="250">
-<img src="" width="250">
+<img src="https://github.com/user-attachments/assets/bdc9a528-c7cc-4c61-a138-0e2cb5c64ee5" width="250"><img src="https://github.com/user-attachments/assets/06986249-0b95-49d2-a412-e8c5b8521219" width="250"><img src="https://github.com/user-attachments/assets/df95dcd5-b4c9-468f-a974-0f9e5e1a7f09" width="250"><img src="https://github.com/user-attachments/assets/c817c62e-828c-4d30-bcb1-b33f0ae049be" width="250"><img src="https://github.com/user-attachments/assets/b4297847-9e83-4e13-8ba7-c305792db8ec" width="250">
 
 ## Hang in there! (IN PROGRESS)
 ### Images
