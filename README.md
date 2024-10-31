@@ -12,7 +12,7 @@ Some poor soul partied so hard at the 2024 checkpoint party that they died. poor
 
 ## The Internet (IN PROGRESS)
 ### Images
-<img src="https://github.com/user-attachments/assets/bdc9a528-c7cc-4c61-a138-0e2cb5c64ee5" width="200"><img src="https://github.com/user-attachments/assets/06986249-0b95-49d2-a412-e8c5b8521219" width="200"><img src="https://github.com/user-attachments/assets/4655827c-b6fa-403a-b6c0-5aae78506481" width="200"><img src="https://github.com/user-attachments/assets/c817c62e-828c-4d30-bcb1-b33f0ae049be" width="200"><img src="https://github.com/user-attachments/assets/b4297847-9e83-4e13-8ba7-c305792db8ec" width="200">
+<img src="https://github.com/user-attachments/assets/bdc9a528-c7cc-4c61-a138-0e2cb5c64ee5" width="200"><img src="https://github.com/user-attachments/assets/86bbc4fa-911b-4e37-84f7-17bbd3120ec2" width="200"><img src="https://github.com/user-attachments/assets/4655827c-b6fa-403a-b6c0-5aae78506481" width="200"><img src="https://github.com/user-attachments/assets/c817c62e-828c-4d30-bcb1-b33f0ae049be" width="200"><img src="https://github.com/user-attachments/assets/b4297847-9e83-4e13-8ba7-c305792db8ec" width="200">
 
 ### Description
 This, Jen, is the Internet. 
