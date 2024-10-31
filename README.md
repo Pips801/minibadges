@@ -5,7 +5,7 @@ All of my Minibadges, including costs, files, and vendors
 
 ## The Internet (IN PROGRESS)
 ### Images
-<img src="https://github.com/user-attachments/assets/bdc9a528-c7cc-4c61-a138-0e2cb5c64ee5" width="250"><img src="https://github.com/user-attachments/assets/06986249-0b95-49d2-a412-e8c5b8521219" width="250"><img src="https://github.com/user-attachments/assets/df95dcd5-b4c9-468f-a974-0f9e5e1a7f09" width="250"><img src="https://github.com/user-attachments/assets/c817c62e-828c-4d30-bcb1-b33f0ae049be" width="250"><img src="https://github.com/user-attachments/assets/b4297847-9e83-4e13-8ba7-c305792db8ec" width="250">
+<img src="https://github.com/user-attachments/assets/bdc9a528-c7cc-4c61-a138-0e2cb5c64ee5" width="200"><img src="https://github.com/user-attachments/assets/06986249-0b95-49d2-a412-e8c5b8521219" width="200"><img src="https://github.com/user-attachments/assets/df95dcd5-b4c9-468f-a974-0f9e5e1a7f09" width="200"><img src="https://github.com/user-attachments/assets/c817c62e-828c-4d30-bcb1-b33f0ae049be" width="200"><img src="https://github.com/user-attachments/assets/b4297847-9e83-4e13-8ba7-c305792db8ec" width="200">
 
 ### Description
 This, Jen, is the Internet. 
@@ -18,7 +18,7 @@ This, Jen, is the Internet.
 
 ## Hang in there! (IN PROGRESS)
 ### Images
-<img src="https://github.com/user-attachments/assets/e0ebf266-4d0b-4066-b820-fd58bc107ac5" width="250"><img src="https://github.com/user-attachments/assets/f62672cc-61c7-489c-aead-9a3a03464b85" width="250"><img src="https://github.com/user-attachments/assets/23d1eb64-ebc9-498d-9c21-8dca9981c8d7" width="250"><img src="https://github.com/user-attachments/assets/5510bf6a-c367-43f9-8e02-50f838b33cfb" width="250">
+<img src="https://github.com/user-attachments/assets/e0ebf266-4d0b-4066-b820-fd58bc107ac5" width="200"><img src="https://github.com/user-attachments/assets/f62672cc-61c7-489c-aead-9a3a03464b85" width="200"><img src="https://github.com/user-attachments/assets/23d1eb64-ebc9-498d-9c21-8dca9981c8d7" width="200"><img src="https://github.com/user-attachments/assets/5510bf6a-c367-43f9-8e02-50f838b33cfb" width="200">
 ### Description
 Hang in there! You've got this!
 ### BOM
@@ -28,7 +28,7 @@ Hang in there! You've got this!
 
 ## Bible Study at ABGs 50ct (IN PROGRESS)
 ### Images
-<img src="https://github.com/user-attachments/assets/d0aefcd5-3747-44e0-b03b-7b40c522c6e3" width="250"><img src="https://github.com/user-attachments/assets/7e6c53e6-3f89-4350-b1a6-feac6b65feaa" width="250"><img src="https://github.com/user-attachments/assets/4eb037c2-8ce0-4c06-8224-b4e8afcfd612" width="250"><img src="https://github.com/user-attachments/assets/17b325e7-4fd1-4064-9ab4-307703f829fd" width="250">
+<img src="https://github.com/user-attachments/assets/d0aefcd5-3747-44e0-b03b-7b40c522c6e3" width="200"><img src="https://github.com/user-attachments/assets/7e6c53e6-3f89-4350-b1a6-feac6b65feaa" width="200"><img src="https://github.com/user-attachments/assets/4eb037c2-8ce0-4c06-8224-b4e8afcfd612" width="200"><img src="https://github.com/user-attachments/assets/17b325e7-4fd1-4064-9ab4-307703f829fd" width="200">
 
 ### Description
 Sacrilegious Minibadge. You can only get this minibadge if you go to the one bar in provo during SAINTCON. If I see you're from the con, I'll give you one.
@@ -48,7 +48,7 @@ Sacrilegious Minibadge. You can only get this minibadge if you go to the one bar
 
 ## Full Color Pipscat 300ct (IN PROGRESS)
 ### Images
-<img src="https://github.com/user-attachments/assets/36c81051-5a37-4645-996e-c16b011ad530" width="250"><img src="https://github.com/user-attachments/assets/0585cf0d-47c4-4451-8ec5-77d729fdf8e6" width="250"><img src="https://github.com/user-attachments/assets/f5e4759f-0a56-4f41-a344-ec17038ebf91" width="250"><img src="https://github.com/user-attachments/assets/87f7d7c2-772e-4338-8bfc-441b32c2b9ae" width="250">
+<img src="https://github.com/user-attachments/assets/36c81051-5a37-4645-996e-c16b011ad530" width="200"><img src="https://github.com/user-attachments/assets/0585cf0d-47c4-4451-8ec5-77d729fdf8e6" width="200"><img src="https://github.com/user-attachments/assets/f5e4759f-0a56-4f41-a344-ec17038ebf91" width="200"><img src="https://github.com/user-attachments/assets/87f7d7c2-772e-4338-8bfc-441b32c2b9ae" width="200">
 
 ### Description
 Full color silkscreening process. The process sucked, and I was forced to learn EasyEDA in order to generate the files that JLCPCB will accept (surprise, it's super annoying and even if you do it right, it goes wrong.)
@@ -62,7 +62,7 @@ The whole process sucked, and while I'm excited to have these badges, I am gonna
 
 ## Scratch and Sniff 400ct (IN PROGRESS)
 ### Images
-<img src="https://github.com/user-attachments/assets/6fd1d7b1-4519-49d2-96d3-e6c677b946db" width="250"><img src="https://github.com/user-attachments/assets/330fbff7-5d63-4fdf-91b3-e32a0c39ce8c" width="250"><img src="https://github.com/user-attachments/assets/39b9e98d-3655-4848-ac54-f78d100db5c2" width="250"><img src="https://github.com/user-attachments/assets/910fcef7-0a5e-4faa-827d-2a35f3711c99" width="250">
+<img src="https://github.com/user-attachments/assets/6fd1d7b1-4519-49d2-96d3-e6c677b946db" width="200"><img src="https://github.com/user-attachments/assets/330fbff7-5d63-4fdf-91b3-e32a0c39ce8c" width="200"><img src="https://github.com/user-attachments/assets/39b9e98d-3655-4848-ac54-f78d100db5c2" width="200"><img src="https://github.com/user-attachments/assets/910fcef7-0a5e-4faa-827d-2a35f3711c99" width="200">
 
 ### Description
 A scratch and sniff minibadgebadge. Stupid idea that came about from 801 Labs. The badge has a very small scratch and sniff sticker overlayed on the front. The sticker will be one of the 5 scents I used for this project, as follows
