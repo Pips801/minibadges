@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2",1206,2,10uF,
+D1,1206,1,LED_R,
+P1,USB_C_Plug_Molex_105444,1,Connector_USB_C_Plug_USB2.0,
+R1,1206,1,5.1k,
+R2,1206,1,10Ω,
+U1,SOT-23-5,1,AP2112K-3.3,
