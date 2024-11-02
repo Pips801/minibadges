@@ -3,9 +3,13 @@ All of my Minibadges, including costs, files, and vendors <img src="" height="20
 
 # 2025
 
+## Doug Dimmadome's Dimma-Minibadge
+### Images
+<img src="https://github.com/user-attachments/assets/2f634c48-85d6-43b7-98f7-1ef753d7f95b" height="200"><img src="https://github.com/user-attachments/assets/7a87a4e4-71d8-4e85-b33f-a7cc19573395" height="200"><img src="https://github.com/user-attachments/assets/ca8f473b-dcbc-4a00-a231-070a4c1765de" height="200"><img src="https://github.com/user-attachments/assets/f1eec131-65c8-4ab1-97c5-04346dc5be93" height="200">
+
 ## Framework Laptop Expansion slot to Minibadge
 ### Images
-<img src="https://github.com/user-attachments/assets/9f1caa61-7968-47b2-8dc2-d1acb80a81f8" height="200"><img src="https://github.com/user-attachments/assets/c3261c71-f06f-42b8-9a1f-79e4d2c981a4" height="200"><img src="https://github.com/user-attachments/assets/245b401f-9bd1-4c77-9c28-4311fe07dbbf" height="200"><img src="https://github.com/user-attachments/assets/ec8415ec-6470-4e85-ba9e-a08905ebeb5d" height="200">
+<img src="https://github.com/user-attachments/assets/aeaa2550-8d88-4cda-a6e4-619935931baf" height="200"><img src="https://github.com/user-attachments/assets/72fee935-d9a1-494c-a9b3-1762b9e8c0b5" height="200"><img src="https://github.com/user-attachments/assets/1ac22782-a9d1-4b24-ba8f-7b1a2eb5ff0a" height="200"><img src="https://github.com/user-attachments/assets/a84088a2-16bf-4899-b0d2-cfee0fb52986" height="200">
 
 
 ## Flipper Zero to Minibadge add-on v0.1 50ct (IN PROGRESS)
