@@ -6,8 +6,6 @@ All of my Minibadges, including costs, files, and vendors <img src="" height="20
 ## 2x2 Minibadge Display
 <img src="https://github.com/user-attachments/assets/fb9cdc75-1d34-4b3b-8199-86dc2e6cf1e5" height="250"><img src="https://github.com/user-attachments/assets/1cd69948-03ed-4b4b-8fdd-50660da7c03a" height="250"><img src="https://github.com/user-attachments/assets/93d6524e-bb64-4fd4-b141-96c41f440388" height="250"><img src="https://github.com/user-attachments/assets/01f72c7e-0a67-4203-8ac8-ac4e30a0faf2" height="250">
 
-## Diagram
-![image](https://github.com/user-attachments/assets/b80efe9a-f281-47a7-8526-f7a6338f8cbe)
 
 ## Description
 A compact 2x2 Minibadge display with the same clock module as the 10x10 minibadge grid. If this device works well, it can be scaled up to 10 minibadges (probaby 9, 3x3 grid) without changing out any components or altering the diagram. The USB-C port is Charge only and is configured with a 5.1k pulldown resistor to request 5V 1A. 
