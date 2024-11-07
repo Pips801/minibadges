@@ -3,6 +3,10 @@ All of my Minibadges, including costs, files, and vendors <img src="" height="20
 
 # 2025
 
+## 3x3 Minibadge Display
+<img src="https://github.com/user-attachments/assets/307fa4b2-c8bd-440d-9915-36f7bf7ebc41" height="200"><img src="https://github.com/user-attachments/assets/ae4988f5-b1bf-4667-b878-dbccce6a6b25" height="200"><img src="https://github.com/user-attachments/assets/b387af06-53b0-482c-bffe-964699ff173f" height="200"><img src="https://github.com/user-attachments/assets/3fb96c74-7c33-4544-8d42-fff12926a63f" height="200"><img src="https://github.com/user-attachments/assets/050cf8d0-812f-4833-855b-2107f22252bd" height="200">
+
+
 ## 2x2 Minibadge Display
 <img src="https://github.com/user-attachments/assets/fb9cdc75-1d34-4b3b-8199-86dc2e6cf1e5" height="250"><img src="https://github.com/user-attachments/assets/1cd69948-03ed-4b4b-8fdd-50660da7c03a" height="250"><img src="https://github.com/user-attachments/assets/93d6524e-bb64-4fd4-b141-96c41f440388" height="250"><img src="https://github.com/user-attachments/assets/01f72c7e-0a67-4203-8ac8-ac4e30a0faf2" height="250">
 
