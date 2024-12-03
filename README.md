@@ -3,18 +3,34 @@ All of my Minibadges, including costs, files, and vendors <img src="" height="20
 
 # 2025
 
+## BEEP BEEP Minibadge
+### Images
+<img src="https://github.com/user-attachments/assets/0f3c041b-da4f-4491-a877-48dcc10a60c0" height="200"><img src="https://github.com/user-attachments/assets/610cce29-3010-47a2-bffa-87e3c3226311" height="200"><img src="https://github.com/user-attachments/assets/d0e108cd-ec92-4265-8b84-7686d5fb6c60" height="200"><img src="https://github.com/user-attachments/assets/7493dfd1-8912-4ad4-bab0-ff68e588dd1b" height="200"><img src="https://github.com/user-attachments/assets/670cf8db-abda-4cb1-a317-cefe74604b7b" height="200">
+### Descrption
+An obnoxiously-loud buzzer with an obnoxiously bright and large button. How tempting! Who wouldn't want to press that?
+### Assembly Instructions
+First, solder all of the LEDs and resistors. if you are missing R1 (a potentiometer), the simply bridge the pad that says "NO R1" with solder. The potentiometer is meant for volume control. Next, solder the buzzer on the back of the badge, then with some good cutters, snip the leads of the speaker as flush as you can get them. After that, solder the comically large button on the front.
+
+## Problem Jeep
+### Images
+### Description
+A reversable minibadge, first of its kind! It can be used both directions, and features LEDs and resistors especially for each orientation.
+
 ## 3x3 Minibadge Display
 ### Images
 <img src="https://github.com/user-attachments/assets/307fa4b2-c8bd-440d-9915-36f7bf7ebc41" height="200"><img src="https://github.com/user-attachments/assets/ae4988f5-b1bf-4667-b878-dbccce6a6b25" height="200"><img src="https://github.com/user-attachments/assets/b387af06-53b0-482c-bffe-964699ff173f" height="200"><img src="https://github.com/user-attachments/assets/3fb96c74-7c33-4544-8d42-fff12926a63f" height="200"><img src="https://github.com/user-attachments/assets/050cf8d0-812f-4833-855b-2107f22252bd" height="200">
-
+### Description
+A 3x3 Minibadge display with the same clock module as the 10x10 minibadge grid.. The USB-C port is Charge only and is configured with a 5.1k pulldown resistor to request 5V, however you are limited to approx 500mA@3.3v from the DC-DC converter. 
+### Assembly Instructions
+Using a pre-soldered minibadge as a guide/holder, solder all pin sockets. Screw Acrylic plate on. Stick feet pads on bottom.
 
 ## 2x2 Minibadge Display
 ### Images
 <img src="https://github.com/user-attachments/assets/fb9cdc75-1d34-4b3b-8199-86dc2e6cf1e5" height="250"><img src="https://github.com/user-attachments/assets/1cd69948-03ed-4b4b-8fdd-50660da7c03a" height="250"><img src="https://github.com/user-attachments/assets/93d6524e-bb64-4fd4-b141-96c41f440388" height="250"><img src="https://github.com/user-attachments/assets/01f72c7e-0a67-4203-8ac8-ac4e30a0faf2" height="250">
-
-
-## Description
-A compact 2x2 Minibadge display with the same clock module as the 10x10 minibadge grid. If this device works well, it can be scaled up to 10 minibadges (probaby 9, 3x3 grid) without changing out any components or altering the diagram. The USB-C port is Charge only and is configured with a 5.1k pulldown resistor to request 5V 1A. 
+### Description
+A compact 2x2 Minibadge display with the same clock module as the 10x10 minibadge grid. If this device works well, it can be scaled up to 10 minibadges (probaby 9, 3x3 grid) without changing out any components or altering the diagram. The USB-C port is Charge only and is configured with a 5.1k pulldown resistor to request 5V, however you are limited to approx 500mA from the DC-DC converter. 
+### Assembly Instructions
+Using a pre-soldered minibadge as a guide/holder, solder all pin sockets.
 
 ## Doug Dimmadome's Dimma-Minibadge
 ### Images
@@ -29,7 +45,7 @@ A compact 2x2 Minibadge display with the same clock module as the 10x10 minibadg
 ### Images
 <img src="https://github.com/user-attachments/assets/e5f3678e-2ad2-4506-97ea-2fbb6ea6500c" height="200"><img src="https://github.com/user-attachments/assets/9ae81211-8fe3-4711-918d-06a2c504770f" height="200"><img src="https://github.com/user-attachments/assets/1e2a4b86-75bd-4d5e-ace6-0a2537feaec0" height="200"><img src="https://github.com/user-attachments/assets/0e99cfc8-c6bc-4030-8597-977c6d6d3811" height="200">
 ### Instructions
-
+Solder the 1x10 pin header row downwards. Solder the 2x 1x8 pin sockets facing upwards. Optionally, bridge the SDA and SCL pads and use a Flipper Zero app that can read I2C communications. Do not bridge the CLK pad - it does not work correctly for badges that use CLK for alternating light patters.
 
 ## I almost DIED at the CheckPoint party
 ### Images
@@ -42,6 +58,8 @@ Some poor soul partied so hard at the 2024 checkpoint party that they died. poor
 <img src="https://github.com/user-attachments/assets/bdc9a528-c7cc-4c61-a138-0e2cb5c64ee5" height="200"><img src="https://github.com/user-attachments/assets/86bbc4fa-911b-4e37-84f7-17bbd3120ec2" height="200"><img src="https://github.com/user-attachments/assets/4655827c-b6fa-403a-b6c0-5aae78506481" height="200"><img height="200" alt="image" src="https://github.com/user-attachments/assets/b1c9e791-d84b-4c52-880d-4241722ca64e"><img src="https://github.com/user-attachments/assets/c817c62e-828c-4d30-bcb1-b33f0ae049be" height="200"><img src="https://github.com/user-attachments/assets/b4297847-9e83-4e13-8ba7-c305792db8ec" height="200">
 ### Description
 This, Jen, is the Internet. 
+### Assembly
+First, solder the through-hole resistor on the back side of the minibadge, and then snip the legs around the front. Next, take the black box, and insert the LED into the hole in the box. Ensure that the LED is pushed down as far as it can be and is snug. Next, put the LED legs through the correct holes (long +, short -) and line up the LED and box on the board. Hot-glue/super-glue the box onto the board, and then solder the legs of the LED. Last, solder the Minibadge's pin legs. If assembled correctly, it should blink red on and off (the LED has an IC that makes it blink)
 ### BOM
 | Description/Link 	| Item 	| Item total 	| Item quantity 	| Per item cost 	| Per unit cost 	|  Per unit required 	|
 |------------------	|------	|------------	|---------------	|---------------	|---------------	|--------------------	|
