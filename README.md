@@ -3,6 +3,16 @@ All of my Minibadges, including costs, files, and vendors <img src="" height="20
 
 # 2025
 
+## ATtiny816 DEVBOARD
+### Images
+![image](https://github.com/user-attachments/assets/6aad190e-a79a-4109-9402-4b7a4498ed41)![image](https://github.com/user-attachments/assets/1bfb3fc1-3132-4dbd-a28b-7b198be94fe1)![image](https://github.com/user-attachments/assets/5f3dad21-31b7-4997-a5f3-ab831f3cefe4)![image](https://github.com/user-attachments/assets/9087a874-3063-4d18-b7dc-ab241d0f7f3f)
+
+
+
+
+### Description
+### Assembly
+
 ## BEEP BEEP Minibadge
 ### Images
 <img src="https://github.com/user-attachments/assets/0f3c041b-da4f-4491-a877-48dcc10a60c0" height="200"><img src="https://github.com/user-attachments/assets/610cce29-3010-47a2-bffa-87e3c3226311" height="200"><img src="https://github.com/user-attachments/assets/d0e108cd-ec92-4265-8b84-7686d5fb6c60" height="200"><img src="https://github.com/user-attachments/assets/7493dfd1-8912-4ad4-bab0-ff68e588dd1b" height="200"><img src="https://github.com/user-attachments/assets/670cf8db-abda-4cb1-a317-cefe74604b7b" height="200">
