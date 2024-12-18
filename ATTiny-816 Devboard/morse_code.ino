@@ -1,3 +1,5 @@
+// This code was written by ChatGPT 4o mini
+
 // Adjust these timings as you like
 const unsigned int DOT_DURATION = 200;    // Duration of a dot
 const unsigned int DASH_DURATION = 800;   // Duration of a dash (4 * DOT_DURATION)
