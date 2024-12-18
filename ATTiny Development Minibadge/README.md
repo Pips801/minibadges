@@ -12,4 +12,5 @@ In the Arduino IDE, make the following changes
 * Programmer: SerialUPDI - SLOW 57600 Baud
 * Chip: ATtiny816
 * Clock: 10Mhz Internal
+  
 You should then be able to do Sketch -> Upload Using Programmer 
