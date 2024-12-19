@@ -15,4 +15,4 @@ In the Arduino IDE, make the following changes
 * Chip: ATtiny816
 * Clock: 10Mhz Internal
   
-You should then be able to do Sketch -> Upload Using Programmer 
+You should then be able to do Sketch -> Upload Using Programmer if your UPDI programmer is connected to UPDI, 3v, and GND (all next to eachother)
