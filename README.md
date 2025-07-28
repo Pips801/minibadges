@@ -1,5 +1,5 @@
 # SAINTCON Minibadges
-All of my Minibadges, including costs, files, and vendors <img src="" height="200">
+All of my Minibadges, including costs, files, and vendors.
 
 # 2025
 
