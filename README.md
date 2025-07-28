@@ -8,7 +8,7 @@ All of my Minibadges, including costs, files, and vendors.
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/a2c18f5b-99fd-4a6d-935c-70633b9e4dfe" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/eb3b4c45-1d4a-4704-93fe-fad74d0faabb" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/48c6e70d-29d0-4068-9f67-c10eb2512f08" /><img  height="200" alt="image" src="https://github.com/user-attachments/assets/f8f4b391-ad5d-4b36-83c7-0e25d249e148" />
 
 ### Description
-A Minibadge that can hold 6 Microbadges!
+A Minibadge that can hold 6 Microbadges! Supports the Microbadge V2 standard, which includes SDA + SCL for I2C.
 
 ## Julia Reagan
 ### Images
