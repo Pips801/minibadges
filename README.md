@@ -18,9 +18,9 @@ Wife, Mother, and Grandmother. We will miss her!
 | Amazon 	| LEDs      	|      $5.41 	|           100 	|         $0.05 	|         $0.11 	|                  2 	|
 | Amazon 	| Resistors 	|      $5.41 	|           100 	|         $0.05 	|         $0.11 	|                  2 	|
 
-| Project total cost 	| Per unit total cost 	| Adjusted quantity 	| Adjusted total 	|
-|--------------------	|---------------------	|-------------------	|----------------	|
-|             $66.90 	|               $0.81 	|                30 	|         $24.16 	|
+| Project total cost 	| Per unit total cost 	| Adjusted quantity 	| Adjusted total 	| Adjusted per unit cost 	|
+|--------------------	|---------------------	|-------------------	|----------------	|------------------------	|
+|             $66.90 	|               $0.81 	|                30 	|         $24.16 	|                  $0.36 	|
 
 ## Crown Burger Minibadge
 ### Images
