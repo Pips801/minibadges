@@ -10,7 +10,7 @@ All of my Minibadges, including costs, files, and vendors.
 ### Description
 Wife, Mother, and Grandmother. We will miss her!
 
-### BOM
+### BOM (post-tarrifs)
 | Vendor 	| Item      	| Item total 	| Item quantity 	| Per item cost 	| Per unit cost 	|  Per unit required 	|
 |--------	|-----------	|------------	|---------------	|---------------	|---------------	|--------------------	|
 | JLCPCB 	| Minibadge 	|     $17.08 	|            30 	|         $0.57 	|         $0.57 	|                  1 	|
