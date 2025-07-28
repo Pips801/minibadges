@@ -6,6 +6,7 @@ All of my Minibadges, including costs, files, and vendors <img src="" height="20
 ## Julia Reagan
 ### Images
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/56e9fe30-c72b-4d07-bf72-d9696be2a432" />
+
 ### Description
 Wife, Mother, and Grandmother. We will miss her!
 
