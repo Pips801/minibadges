@@ -10,6 +10,18 @@ All of my Minibadges, including costs, files, and vendors <img src="" height="20
 ### Description
 Wife, Mother, and Grandmother. We will miss her!
 
+### BOM
+| Vendor 	| Item      	| Item total 	| Item quantity 	| Per item cost 	| Per unit cost 	|  Per unit required 	|
+|--------	|-----------	|------------	|---------------	|---------------	|---------------	|--------------------	|
+| JLCPCB 	| Minibadge 	|     $17.08 	|            30 	|         $0.57 	|         $0.57 	|                  1 	|
+| Amazon 	| Pins      	|     $39.00 	|         16000 	|         $0.00 	|         $0.02 	|                  8 	|
+| Amazon 	| LEDs      	|      $5.41 	|           100 	|         $0.05 	|         $0.11 	|                  2 	|
+| Amazon 	| Resistors 	|      $5.41 	|           100 	|         $0.05 	|         $0.11 	|                  2 	|
+
+| Project total cost 	| Per unit total cost 	| Adjusted quantity 	| Adjusted total 	|
+|--------------------	|---------------------	|-------------------	|----------------	|
+|             $66.90 	|               $0.81 	|                30 	|         $24.16 	|
+
 ## Crown Burger Minibadge
 ### Images
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/c6768c4e-c6c8-409d-a277-0117af476a4e" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/2be32665-d637-4b94-b3c8-8f5c2dbaec13" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/fcd0e5b9-e84a-4ac3-ab06-b8717de8055b" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/b332cc6b-718c-459c-bf61-6260a88c5616" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/848f4e84-dc38-4d59-8bda-28797ba88c75" />
