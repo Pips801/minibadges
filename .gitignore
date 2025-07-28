@@ -27,3 +27,5 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+fabrication-toolkit-options.json
+fp-lib-table
