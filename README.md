@@ -28,15 +28,22 @@ Wife, Mother, and Grandmother. We will miss her!
 ### Description
 Do you love Fry sauce? because we sure do. We also love Crown Burger, whom we are beholdent to.
 
-
-
-
 ## ATtiny DEVBOARD
 ### Images
 <img src="https://github.com/user-attachments/assets/08d73bf7-969f-488b-956e-efea55961474" height="200"><img src="https://github.com/user-attachments/assets/602e61fd-3275-40b5-b0be-b451f2613107" height="200"><img src="https://github.com/user-attachments/assets/3c6f5981-bbbd-4e7f-b78d-93d94c71777b" height="200"><img src="https://github.com/user-attachments/assets/4a3eb651-b174-4794-853f-94a5c92e95b5" height="200"><img src="https://github.com/user-attachments/assets/06d58bd1-e008-406e-b622-fba6eeb20f30" height="200"><img src="https://github.com/user-attachments/assets/dca33db4-9784-4bc0-88f5-30bcdb845505" height="200">
 ### Description
 ATTiny-816/1616 Minibadge Devboard with breakouts for USART, I2C, DAC, and SPI, as well as two LEDs. There is also support for two ADC (analog to digital conversion) inputs and two PTC (touch sense) pins. It is programmed using UPDI via pin 6 (PROG4). either has 8KB or 16KB of flash
 ### Assembly
+Solder pin headers. DO NOT PLUG BOARD IN UPSIDE-DOWN!!!!
+### BOM
+| Description/Link 	| Item      	| Item total 	| Item quantity 	| Per item cost 	| Per unit cost 	|  Per unit required 	|
+|------------------	|-----------	|------------	|---------------	|---------------	|---------------	|--------------------	|
+| JLCPCB assembly  	| Minibadge 	|     $68.02 	|            50 	|         $1.36 	|         $1.36 	|                  1 	|
+| Amazon           	| Pins      	|      $5.49 	|           800 	|         $0.01 	|         $0.11 	|                 16 	|
+
+| Project total cost 	| Per unit total cost 	| Adjusted quantity 	| Adjusted total 	|
+|--------------------	|---------------------	|-------------------	|----------------	|
+|             $73.51 	|               $1.47 	|                50 	|         $73.51 	|
 
 ## BEEP BEEP Minibadge
 ### Images
