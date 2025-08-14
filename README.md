@@ -12,22 +12,25 @@ A Minibadge that can hold 6 Microbadges! Supports the [Microbadge V2](https://gi
 
 ## Julia Reagan
 ### Images
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/56e9fe30-c72b-4d07-bf72-d9696be2a432" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/4b7f355f-03d8-47ff-9c87-77fe851121cc" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/e60a9703-9e4b-499a-b6a1-296af7eae497" />
+
+
 
 ### Description
 Wife, Mother, and Grandmother. We will miss her!
 
 ### BOM (post-tarrifs)
-| Vendor 	| Item      	| Item total 	| Item quantity 	| Per item cost 	| Per unit cost 	|  Per unit required 	|
-|--------	|-----------	|------------	|---------------	|---------------	|---------------	|--------------------	|
-| JLCPCB 	| Minibadge 	|     $17.08 	|            30 	|         $0.57 	|         $0.57 	|                  1 	|
-| Amazon 	| Pins      	|     $39.00 	|         16000 	|         $0.00 	|         $0.02 	|                  8 	|
-| Amazon 	| LEDs      	|      $5.41 	|           100 	|         $0.05 	|         $0.11 	|                  2 	|
-| Amazon 	| Resistors 	|      $5.41 	|           100 	|         $0.05 	|         $0.11 	|                  2 	|
+| Vendor | Item     | Item total | Item quantity | Per item cost | Per unit cost | Per unit required |
+| ------ | -------- | ---------- | ------------- | ------------- | ------------- | ----------------- |
+| JLCPCB | PCB      | $42.22     | 450           | $0.09         | $0.09         | 1                 |
+| JLCPCB | Assembly | $71.96     | 450           | $0.16         | $0.16         | 1                 |
+| JLCPCB | Shipping | $56.40     | 450           | $0.13         | $0.13         | 1                 |
+| Amazon | Bags     | $19.99     | 2000          | $0.01         | $0.01         | 1                 |
+| Amazon | Pins     | $39.00     | 16000         | $0.00         | $0.02         | 8                 |
 
-| Project total cost 	| Per unit total cost 	| Adjusted quantity 	| Adjusted total 	| Adjusted per unit cost 	|
-|--------------------	|---------------------	|-------------------	|----------------	|------------------------	|
-|             $66.90 	|               $0.81 	|                30 	|         $24.16 	|                  $0.36 	|
+| Project total cost | Per unit total cost | Quantity | Adjusted total | Adjusted per unit cost |
+| ------------------ | ------------------- | -------- | -------------- | ---------------------- |
+| $229.57            | $0.51               | 450      | $183.85        | $0.41                  |
 
 ## Crown Burger Minibadge
 ### Images
