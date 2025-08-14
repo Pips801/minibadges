@@ -38,6 +38,19 @@ Wife, Mother, and Grandmother. We will miss her!
 ### Description
 Do you love Fry sauce? because we sure do. We also love Crown Burger, whom we are beholdent to.
 
+### BOM (post-tarrifs)
+| Vendor | Item     | Item total | Item quantity | Per item cost | Per unit cost | Per unit required |
+| ------ | -------- | ---------- | ------------- | ------------- | ------------- | ----------------- |
+| JLCPCB | PCB      | $17.30     | 120           | $0.14         | $0.14         | 1                 |
+| JLCPCB | Assembly | $32.96     | 120           | $0.27         | $0.27         | 1                 |
+| JLCPCB | Shipping | $37.80     | 120           | $0.32         | $0.32         | 1                 |
+| Amazon | Bags     | $19.99     | 2000          | $0.01         | $0.01         | 1                 |
+| Amazon | Pins     | $39.00     | 16000         | $0.00         | $0.02         | 8                 |
+
+| Project total cost | Per unit total cost | Quantity | Adjusted total | Adjusted per unit cost |
+| ------------------ | ------------------- | -------- | -------------- | ---------------------- |
+| $147.05            | $1.23               | 120      | $91.60         | $0.76                  |
+
 ## ATtiny DEVBOARD
 ### Images
 <img src="https://github.com/user-attachments/assets/08d73bf7-969f-488b-956e-efea55961474" height="200"><img src="https://github.com/user-attachments/assets/602e61fd-3275-40b5-b0be-b451f2613107" height="200"><img src="https://github.com/user-attachments/assets/3c6f5981-bbbd-4e7f-b78d-93d94c71777b" height="200"><img src="https://github.com/user-attachments/assets/4a3eb651-b174-4794-853f-94a5c92e95b5" height="200"><img src="https://github.com/user-attachments/assets/06d58bd1-e008-406e-b622-fba6eeb20f30" height="200"><img src="https://github.com/user-attachments/assets/dca33db4-9784-4bc0-88f5-30bcdb845505" height="200">
