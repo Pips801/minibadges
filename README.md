@@ -12,28 +12,44 @@ A Minibadge that can hold 6 Microbadges! Supports the [Microbadge V2](https://gi
 
 ## Julia Reagan
 ### Images
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/56e9fe30-c72b-4d07-bf72-d9696be2a432" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/4b7f355f-03d8-47ff-9c87-77fe851121cc" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/e60a9703-9e4b-499a-b6a1-296af7eae497" />
+
+
 
 ### Description
 Wife, Mother, and Grandmother. We will miss her!
 
 ### BOM (post-tarrifs)
-| Vendor 	| Item      	| Item total 	| Item quantity 	| Per item cost 	| Per unit cost 	|  Per unit required 	|
-|--------	|-----------	|------------	|---------------	|---------------	|---------------	|--------------------	|
-| JLCPCB 	| Minibadge 	|     $17.08 	|            30 	|         $0.57 	|         $0.57 	|                  1 	|
-| Amazon 	| Pins      	|     $39.00 	|         16000 	|         $0.00 	|         $0.02 	|                  8 	|
-| Amazon 	| LEDs      	|      $5.41 	|           100 	|         $0.05 	|         $0.11 	|                  2 	|
-| Amazon 	| Resistors 	|      $5.41 	|           100 	|         $0.05 	|         $0.11 	|                  2 	|
+| Vendor | Item     | Item total | Item quantity | Per item cost | Per unit cost | Per unit required |
+| ------ | -------- | ---------- | ------------- | ------------- | ------------- | ----------------- |
+| JLCPCB | PCB      | $42.22     | 450           | $0.09         | $0.09         | 1                 |
+| JLCPCB | Assembly | $71.96     | 450           | $0.16         | $0.16         | 1                 |
+| JLCPCB | Shipping | $56.40     | 450           | $0.13         | $0.13         | 1                 |
+| Amazon | Bags     | $19.99     | 2000          | $0.01         | $0.01         | 1                 |
+| Amazon | Pins     | $39.00     | 16000         | $0.00         | $0.02         | 8                 |
 
-| Project total cost 	| Per unit total cost 	| Adjusted quantity 	| Adjusted total 	| Adjusted per unit cost 	|
-|--------------------	|---------------------	|-------------------	|----------------	|------------------------	|
-|             $66.90 	|               $0.81 	|                30 	|         $24.16 	|                  $0.36 	|
+| Project total cost | Per unit total cost | Quantity | Adjusted total | Adjusted per unit cost |
+| ------------------ | ------------------- | -------- | -------------- | ---------------------- |
+| $229.57            | $0.51               | 450      | $183.85        | $0.41                  |
 
 ## Crown Burger Minibadge
 ### Images
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/c6768c4e-c6c8-409d-a277-0117af476a4e" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/2be32665-d637-4b94-b3c8-8f5c2dbaec13" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/fcd0e5b9-e84a-4ac3-ab06-b8717de8055b" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/b332cc6b-718c-459c-bf61-6260a88c5616" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/848f4e84-dc38-4d59-8bda-28797ba88c75" />
 ### Description
 Do you love Fry sauce? because we sure do. We also love Crown Burger, whom we are beholdent to.
+
+### BOM (post-tarrifs)
+| Vendor | Item     | Item total | Item quantity | Per item cost | Per unit cost | Per unit required |
+| ------ | -------- | ---------- | ------------- | ------------- | ------------- | ----------------- |
+| JLCPCB | PCB      | $17.30     | 120           | $0.14         | $0.14         | 1                 |
+| JLCPCB | Assembly | $32.96     | 120           | $0.27         | $0.27         | 1                 |
+| JLCPCB | Shipping | $37.80     | 120           | $0.32         | $0.32         | 1                 |
+| Amazon | Bags     | $19.99     | 2000          | $0.01         | $0.01         | 1                 |
+| Amazon | Pins     | $39.00     | 16000         | $0.00         | $0.02         | 8                 |
+
+| Project total cost | Per unit total cost | Quantity | Adjusted total | Adjusted per unit cost |
+| ------------------ | ------------------- | -------- | -------------- | ---------------------- |
+| $147.05            | $1.23               | 120      | $91.60         | $0.76                  |
 
 ## ATtiny DEVBOARD
 ### Images
