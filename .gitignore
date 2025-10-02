@@ -31,3 +31,5 @@ fabrication-toolkit-options.json
 fp-lib-table
 \#auto_saved_files\#
 *.lck
+
+**/production
