@@ -2060,7 +2060,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Microbadge V2:Microbadge_V2_full_round_socket_reflective_GND"
+		(property "Footprint" "Microbadge V2:Microbadge_V2_full_round_socket_reflective_nosilk_GND"
 			(at 54.61 63.5 0)
 			(effects
 				(font
@@ -2223,7 +2223,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Microbadge V2:Microbadge_V2_full_round_socket_reflective_GND"
+		(property "Footprint" "Microbadge V2:Microbadge_V2_full_round_socket_reflective_nosilk_GND"
 			(at 107.95 88.9 0)
 			(effects
 				(font
@@ -3166,7 +3166,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Microbadge V2:Microbadge_V2_full_round_socket_reflective_GND"
+		(property "Footprint" "Microbadge V2:Microbadge_V2_full_round_socket_reflective_nosilk_GND"
 			(at 54.61 88.9 0)
 			(effects
 				(font
@@ -3960,7 +3960,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Microbadge V2:Microbadge_V2_full_round_socket_reflective_GND"
+		(property "Footprint" "Microbadge V2:Microbadge_V2_full_round_socket_reflective_nosilk_GND"
 			(at 107.95 63.5 0)
 			(effects
 				(font
@@ -4448,7 +4448,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Microbadge V2:Microbadge_V2_full_round_socket_reflective_GND"
+		(property "Footprint" "Microbadge V2:Microbadge_V2_full_round_socket_reflective_nosilk_GND"
 			(at 54.61 114.3 0)
 			(effects
 				(font
@@ -4741,7 +4741,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Microbadge V2:Microbadge_V2_full_round_socket_reflective_GND"
+		(property "Footprint" "Microbadge V2:Microbadge_V2_full_round_socket_reflective_nosilk_GND"
 			(at 107.95 114.3 0)
 			(effects
 				(font
