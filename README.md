@@ -29,17 +29,29 @@ A Minibadge that can hold 6 Microbadges! Supports the [Microbadge V2](https://gi
 Wife, Mother, and Grandmother. We will miss her!
 
 ### BOM (post-tarrifs)
-| Vendor | Item     | Item total | Item quantity | Per item cost | Per unit cost | Per unit required |
-| ------ | -------- | ---------- | ------------- | ------------- | ------------- | ----------------- |
-| JLCPCB | PCB      | $42.22     | 450           | $0.09         | $0.09         | 1                 |
-| JLCPCB | Assembly | $71.96     | 450           | $0.16         | $0.16         | 1                 |
-| JLCPCB | Shipping | $56.40     | 450           | $0.13         | $0.13         | 1                 |
-| Amazon | Bags     | $19.99     | 2000          | $0.01         | $0.01         | 1                 |
-| Amazon | Pins     | $39.00     | 16000         | $0.00         | $0.02         | 8                 |
+| Vendor       | Item                    | Item total | Item quantity | Per item cost | Per unit cost | Per unit required |
+| ------------ | ----------------------- | ---------- | ------------- | ------------- | ------------- | ----------------- |
+| JLC PCB      | Board                   | $25.50     | 450           | $0.06         | $0.06         | 1                 |
+| JLC PCB      | Engineering fee         | $8.00      | 450           | $0.02         | $0.02         | 1                 |
+| JLC PCB      | Film                    | $3.00      | 450           | $0.01         | $0.01         | 1                 |
+| JLC PCB      | Confirm production file | $1.00      | 450           | $0.00         | $0.00         | 1                 |
+| JLC PCB      | Silkscreen tech         | $4.72      | 450           | $0.01         | $0.01         | 1                 |
+| JLC Assembly | Components              | $12.21     | 450           | $0.03         | $0.03         | 1                 |
+| JLC Assembly | SMT assembly            | $5.70      | 450           | $0.01         | $0.01         | 1                 |
+| JLC Assembly | Setup fee               | $25.00     | 450           | $0.06         | $0.06         | 1                 |
+| JLC Assembly | Packaging fee           | $0.47      | 450           | $0.00         | $0.00         | 1                 |
+| JLC Assembly | De-panel boards         | $17.29     | 450           | $0.04         | $0.04         | 1                 |
+| JLC Assembly | Stencil                 | $7.89      | 450           | $0.02         | $0.02         | 1                 |
+| JLC Assembly | Component fee           | $3.00      | 450           | $0.01         | $0.01         | 1                 |
+| JLC Assembly | Confirm parts           | $0.43      | 450           | $0.00         | $0.00         | 1                 |
+| JLC          | Shipping (UPS)          | $56.40     | 450           | $0.13         | $0.13         | 1                 |
+| JLC          | Tariffs                 | $60.73     | 450           | $0.13         | $0.13         | 1                 |
+| Amazon       | Bags                    | $19.99     | 2000          | $0.01         | $0.01         | 1                 |
+| Amazon       | Pins                    | $39.00     | 16000         | $0.00         | $0.02         | 8                 |
 
 | Project total cost | Per unit total cost | Quantity | Adjusted total | Adjusted per unit cost |
 | ------------------ | ------------------- | -------- | -------------- | ---------------------- |
-| $229.57            | $0.51               | 450      | $183.85        | $0.41                  |
+| $290.33            | $0.65               | 450      | $244.61        | $0.54                  |
 
 ## Crown Burger Minibadge
 ### Images
