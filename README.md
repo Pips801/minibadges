@@ -28,7 +28,7 @@ A Minibadge that can hold 6 Microbadges! Supports the [Microbadge V2](https://gi
 ### Description
 Wife, Mother, and Grandmother. We will miss her!
 
-### BOM (post-tarrifs)
+### BOM (post-tariffs)
 | Vendor       | Item                    | Item total | Item quantity | Per item cost | Per unit cost | Per unit required |
 | ------------ | ----------------------- | ---------- | ------------- | ------------- | ------------- | ----------------- |
 | JLC PCB      | Board                   | $25.50     | 450           | $0.06         | $0.06         | 1                 |
