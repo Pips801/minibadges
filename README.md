@@ -3,6 +3,15 @@ All of my Minibadges, including costs, files, and vendors.
 
 # 2025
 
+## Glitch Gallery
+### Images
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/f912909a-52fd-4969-b27f-3cca66a56a38" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/da0b03cd-ba6d-45a9-9bcf-bb596d245726" />
+
+### Description
+A secret Minibadge for a secret event. 
+
+
+
 ## Microbadge Minibadge
 ### Images
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/a2c18f5b-99fd-4a6d-935c-70633b9e4dfe" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/eb3b4c45-1d4a-4704-93fe-fad74d0faabb" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/48c6e70d-29d0-4068-9f67-c10eb2512f08" /><img  height="200" alt="image" src="https://github.com/user-attachments/assets/f8f4b391-ad5d-4b36-83c7-0e25d249e148" />
@@ -19,18 +28,32 @@ A Minibadge that can hold 6 Microbadges! Supports the [Microbadge V2](https://gi
 ### Description
 Wife, Mother, and Grandmother. We will miss her!
 
-### BOM (post-tarrifs)
-| Vendor | Item     | Item total | Item quantity | Per item cost | Per unit cost | Per unit required |
-| ------ | -------- | ---------- | ------------- | ------------- | ------------- | ----------------- |
-| JLCPCB | PCB      | $42.22     | 450           | $0.09         | $0.09         | 1                 |
-| JLCPCB | Assembly | $71.96     | 450           | $0.16         | $0.16         | 1                 |
-| JLCPCB | Shipping | $56.40     | 450           | $0.13         | $0.13         | 1                 |
-| Amazon | Bags     | $19.99     | 2000          | $0.01         | $0.01         | 1                 |
-| Amazon | Pins     | $39.00     | 16000         | $0.00         | $0.02         | 8                 |
+### BOM (post-tariffs)
+| Vendor       | Item                    | Item total | Item quantity | Per item cost | Per unit cost | Per unit required |
+| ------------ | ----------------------- | ---------- | ------------- | ------------- | ------------- | ----------------- |
+| JLC PCB      | Board                   | $25.50     | 450           | $0.06         | $0.06         | 1                 |
+| JLC PCB      | Engineering fee         | $8.00      | 450           | $0.02         | $0.02         | 1                 |
+| JLC PCB      | Film                    | $3.00      | 450           | $0.01         | $0.01         | 1                 |
+| JLC PCB      | Confirm production file | $1.00      | 450           | $0.00         | $0.00         | 1                 |
+| JLC PCB      | Silkscreen tech         | $4.72      | 450           | $0.01         | $0.01         | 1                 |
+| JLC Assembly | Components              | $12.21     | 450           | $0.03         | $0.03         | 1                 |
+| JLC Assembly | SMT assembly            | $5.70      | 450           | $0.01         | $0.01         | 1                 |
+| JLC Assembly | Setup fee               | $25.00     | 450           | $0.06         | $0.06         | 1                 |
+| JLC Assembly | Packaging fee           | $0.47      | 450           | $0.00         | $0.00         | 1                 |
+| JLC Assembly | De-panel boards         | $17.29     | 450           | $0.04         | $0.04         | 1                 |
+| JLC Assembly | Stencil                 | $7.89      | 450           | $0.02         | $0.02         | 1                 |
+| JLC Assembly | Component fee           | $3.00      | 450           | $0.01         | $0.01         | 1                 |
+| JLC Assembly | Confirm parts           | $0.43      | 450           | $0.00         | $0.00         | 1                 |
+| JLC          | Shipping (UPS)          | $56.40     | 450           | $0.13         | $0.13         | 1                 |
+| JLC          | Tariffs                 | $60.73     | 450           | $0.13         | $0.13         | 1                 |
+| Amazon       | Bags                    | $19.99     | 2000          | $0.01         | $0.01         | 1                 |
+| Amazon       | Pins                    | $39.00     | 16000         | $0.00         | $0.02         | 8                 |
 
 | Project total cost | Per unit total cost | Quantity | Adjusted total | Adjusted per unit cost |
 | ------------------ | ------------------- | -------- | -------------- | ---------------------- |
-| $229.57            | $0.51               | 450      | $183.85        | $0.41                  |
+| $290.33            | $0.65               | 450      | $244.61        | $0.54                  |
+
+<img width="600" height="371" alt="chart" src="https://github.com/user-attachments/assets/c9705773-ddc2-4a03-a0e0-188457e9c267" />
 
 ## Crown Burger Minibadge
 ### Images
