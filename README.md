@@ -10,7 +10,23 @@ All of my Minibadges, including costs, files, and vendors.
 ### Description
 A secret Minibadge for a secret event. 
 
+### BOM (post-tariffs)
+| Vendor       | Item            | Item total | Item quantity | Per item cost | Per unit cost | Per unit required |
+| ------------ | --------------- | ---------- | ------------- | ------------- | ------------- | ----------------- |
+| JLC PCB      | Board           | $4.40      | 200           | $0.02         | $0.02         | 1                 |
+| JLC PCB      | Engineering fee | $8.00      | 200           | $0.04         | $0.04         | 1                 |
+| JLC PCB      | Deburring       | $4.30      | 200           | $0.02         | $0.02         | 1                 |
+| JLC PCB      | Confirmation    | $1.00      | 200           | $0.01         | $0.01         | 1                 |
+| JLC PCB      | Packaging       | $0.71      | 200           | $0.00         | $0.00         | 1                 |
+| JLC PCB      | Film            | $0.20      | 200           | $0.00         | $0.00         | 1                 |
+| JLC Tariffs  | Tariffs         | $10.23     | 200           | $0.05         | $0.05         | 1                 |
+| JLC Shipping | Shipping        | $22.95     | 200           | $0.11         | $0.11         | 1                 |
+| Amazon       | Bags            | $20.00     | 2000          | $0.01         | $0.01         | 1                 |
+| Amazon       | Pins            | $39.00     | 16000         | $0.00         | $0.01         | 4                 |
 
+| Quantity | Project total cost | Per unit total cost | Actual total | Actual per unit cost |
+| -------- | ------------------ | ------------------- | ------------ | -------------------- |
+| 200      | $110.79            | $0.55               | $55.74       | $0.28                |
 
 ## Microbadge Minibadge
 ### Images
@@ -18,6 +34,24 @@ A secret Minibadge for a secret event.
 
 ### Description
 A Minibadge that can hold 6 Microbadges! Supports the [Microbadge V2](https://github.com/Pips801/microbadge/) standard, which includes SDA + SCL for I2C.
+
+### BOM (post-tariffs)
+| Vendor       | Item            | Item total | Item quantity | Per item cost | Per unit cost | Per unit required |
+| ------------ | --------------- | ---------- | ------------- | ------------- | ------------- | ----------------- |
+| JLC PCB      | Board           | $6.90      | 250           | $0.03         | $0.03         | 1                 |
+| JLC PCB      | Engineering fee | $24.00     | 250           | $0.10         | $0.10         | 1                 |
+| JLC PCB      | Film            | $0.20      | 250           | $0.00         | $0.00         | 1                 |
+| JLC PCB      | Testing         | $0.80      | 250           | $0.00         | $0.00         | 1                 |
+| JLC PCB      | Deburring       | $5.40      | 250           | $0.02         | $0.02         | 1                 |
+| JLC PCB      | Silkscreen tech | $16.20     | 250           | $0.06         | $0.06         | 1                 |
+| JLC PCB      | Color           | $4.80      | 250           | $0.02         | $0.02         | 1                 |
+| JLC Shipping | Shipping (UPS)  | $10.20     | 250           | $0.04         | $0.04         | 1                 |
+| Amazon       | Bags            | $20.00     | 2000          | $0.01         | $0.01         | 1                 |
+| Amazon       | Pins            | $39.00     | 16000         | $0.00         | $0.04         | 16                |
+
+| Project total cost | Per unit total cost | Quantity | Adjusted total | Adjusted per unit cost |
+| ------------------ | ------------------- | -------- | -------------- | ---------------------- |
+| $127.50            | $0.28               | 450      | $145.35        | $0.32                  |
 
 ## Julia Reagan
 ### Images
