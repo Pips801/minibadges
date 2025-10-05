@@ -28,6 +28,8 @@ A secret Minibadge for a secret event.
 | -------- | ------------------ | ------------------- | ------------ | -------------------- |
 | 200      | $110.79            | $0.55               | $55.74       | $0.28                |
 
+<img width="638" height="394" alt="chart (2)" src="https://github.com/user-attachments/assets/adf12021-9682-4e53-af57-4fddab2f6f63" />
+
 ## Microbadge Minibadge
 ### Images
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/a2c18f5b-99fd-4a6d-935c-70633b9e4dfe" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/eb3b4c45-1d4a-4704-93fe-fad74d0faabb" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/48c6e70d-29d0-4068-9f67-c10eb2512f08" /><img  height="200" alt="image" src="https://github.com/user-attachments/assets/f8f4b391-ad5d-4b36-83c7-0e25d249e148" />
@@ -53,11 +55,11 @@ A Minibadge that can hold 6 Microbadges! Supports the [Microbadge V2](https://gi
 | ------------------ | ------------------- | -------- | -------------- | ---------------------- |
 | $127.50            | $0.28               | 450      | $145.35        | $0.32                  |
 
+<img width="638" height="394" alt="chart (3)" src="https://github.com/user-attachments/assets/d82e8463-7e69-40a3-8352-00d8ce36cf44" />
+
 ## Julia Reagan
 ### Images
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/4b7f355f-03d8-47ff-9c87-77fe851121cc" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/e60a9703-9e4b-499a-b6a1-296af7eae497" />
-
-
 
 ### Description
 Wife, Mother, and Grandmother. We will miss her!
@@ -87,7 +89,7 @@ Wife, Mother, and Grandmother. We will miss her!
 | ------------------ | ------------------- | -------- | -------------- | ---------------------- |
 | $290.33            | $0.65               | 450      | $244.61        | $0.54                  |
 
-<img width="600" height="371" alt="chart" src="https://github.com/user-attachments/assets/c9705773-ddc2-4a03-a0e0-188457e9c267" />
+<img width="638" height="394" alt="chart (4)" src="https://github.com/user-attachments/assets/4e96b732-a74e-40df-969a-2210a64dc024" />
 
 ## Crown Burger Minibadge
 ### Images
