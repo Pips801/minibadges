@@ -32,10 +32,12 @@ A secret Minibadge for a secret event.
 
 ## Microbadge Minibadge
 ### Images
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/a2c18f5b-99fd-4a6d-935c-70633b9e4dfe" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/eb3b4c45-1d4a-4704-93fe-fad74d0faabb" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/48c6e70d-29d0-4068-9f67-c10eb2512f08" /><img  height="200" alt="image" src="https://github.com/user-attachments/assets/f8f4b391-ad5d-4b36-83c7-0e25d249e148" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/13853abe-011a-4814-ade2-8034542a941b" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/8719d7ec-ee54-4d9f-9bbc-1c65a12a320c" />
+
+
 
 ### Description
-A Minibadge that can hold 6 Microbadges! Supports the [Microbadge V2](https://github.com/Pips801/microbadge/) standard, which includes SDA + SCL for I2C.
+A Minibadge that can hold 6 Microbadges! Supports the [Microbadge V2](https://github.com/Pips801/microbadge/) standard. This is my first 4 layer board!
 
 ### BOM (post-tariffs)
 | Vendor       | Item            | Item total | Item quantity | Per item cost | Per unit cost | Per unit required |
