@@ -1,11 +1,27 @@
 # SAINTCON Minibadges
 All of my Minibadges, including costs, files, and vendors.
 
+# 2026
+
+## Seeed XIAO ESP32Minibadge
+### Images
+<img height="200" height="671" alt="image" src="https://github.com/user-attachments/assets/56bc166a-cdfb-4ba8-b20b-36bac40fdcd9" /> <img height="200" alt="image" src="https://github.com/user-attachments/assets/4d7cbb31-693a-40bc-a030-e4964991c0f7" /> <img height="200" alt="image" src="https://github.com/user-attachments/assets/8e693a99-57f9-4c6f-a857-efc77efbafc5" />
+
+## Description
+A Minibadge that can hold and power the Seeed XIAO ESP32 modules.
+
+Supports:
+* [XIAO ESP32-S3 + Wio-SX1262 (Meshtastic)](https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html)
+* [XIAO ESP32-C6 (Thread/Zigbee)](https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C6-p-5884.html)
+* [XIAO ESP32-S3 Sense (Camera/SD card)](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html)
+* Other XIAO ESPs are untested, but if the pinout is the same, it will work.
+
+
 # 2025
 
 ## Glitch Gallery
 ### Images
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/f912909a-52fd-4969-b27f-3cca66a56a38" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/da0b03cd-ba6d-45a9-9bcf-bb596d245726" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/f912909a-52fd-4969-b27f-3cca66a56a38" /> <img height="200" alt="image" src="https://github.com/user-attachments/assets/da0b03cd-ba6d-45a9-9bcf-bb596d245726" />
 
 ### Description
 A secret Minibadge for a secret event. 
@@ -32,7 +48,7 @@ A secret Minibadge for a secret event.
 
 ## Microbadge Minibadge
 ### Images
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/13853abe-011a-4814-ade2-8034542a941b" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/8719d7ec-ee54-4d9f-9bbc-1c65a12a320c" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/13853abe-011a-4814-ade2-8034542a941b" /> <img height="200" alt="image" src="https://github.com/user-attachments/assets/8719d7ec-ee54-4d9f-9bbc-1c65a12a320c" />
 
 
 
@@ -61,7 +77,7 @@ A Minibadge that can hold 6 Microbadges! Supports the [Microbadge V2](https://gi
 
 ## Julia Reagan
 ### Images
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/4b7f355f-03d8-47ff-9c87-77fe851121cc" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/e60a9703-9e4b-499a-b6a1-296af7eae497" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/4b7f355f-03d8-47ff-9c87-77fe851121cc" /> <img height="200" alt="image" src="https://github.com/user-attachments/assets/e60a9703-9e4b-499a-b6a1-296af7eae497" />
 
 ### Description
 Wife, Mother, and Grandmother. We will miss her!
@@ -95,7 +111,7 @@ Wife, Mother, and Grandmother. We will miss her!
 
 ## Crown Burger Minibadge
 ### Images
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/c6768c4e-c6c8-409d-a277-0117af476a4e" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/2be32665-d637-4b94-b3c8-8f5c2dbaec13" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/fcd0e5b9-e84a-4ac3-ab06-b8717de8055b" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/b332cc6b-718c-459c-bf61-6260a88c5616" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/848f4e84-dc38-4d59-8bda-28797ba88c75" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/c6768c4e-c6c8-409d-a277-0117af476a4e" /> <img height="200" alt="image" src="https://github.com/user-attachments/assets/2be32665-d637-4b94-b3c8-8f5c2dbaec13" /> <img height="200" alt="image" src="https://github.com/user-attachments/assets/fcd0e5b9-e84a-4ac3-ab06-b8717de8055b" /> <img height="200" alt="image" src="https://github.com/user-attachments/assets/b332cc6b-718c-459c-bf61-6260a88c5616" /> <img height="200" alt="image" src="https://github.com/user-attachments/assets/848f4e84-dc38-4d59-8bda-28797ba88c75" />
 ### Description
 Do you love Fry sauce? because we sure do. We also love Crown Burger, whom we are beholdent to.
 
@@ -114,7 +130,7 @@ Do you love Fry sauce? because we sure do. We also love Crown Burger, whom we ar
 
 ## ATtiny DEVBOARD
 ### Images
-<img src="https://github.com/user-attachments/assets/08d73bf7-969f-488b-956e-efea55961474" height="200"><img src="https://github.com/user-attachments/assets/602e61fd-3275-40b5-b0be-b451f2613107" height="200"><img src="https://github.com/user-attachments/assets/3c6f5981-bbbd-4e7f-b78d-93d94c71777b" height="200"><img src="https://github.com/user-attachments/assets/4a3eb651-b174-4794-853f-94a5c92e95b5" height="200"><img src="https://github.com/user-attachments/assets/06d58bd1-e008-406e-b622-fba6eeb20f30" height="200"><img src="https://github.com/user-attachments/assets/dca33db4-9784-4bc0-88f5-30bcdb845505" height="200">
+<img src="https://github.com/user-attachments/assets/08d73bf7-969f-488b-956e-efea55961474" height="200"> <img src="https://github.com/user-attachments/assets/602e61fd-3275-40b5-b0be-b451f2613107" height="200"> <img src="https://github.com/user-attachments/assets/3c6f5981-bbbd-4e7f-b78d-93d94c71777b" height="200"> <img src="https://github.com/user-attachments/assets/4a3eb651-b174-4794-853f-94a5c92e95b5" height="200"> <img src="https://github.com/user-attachments/assets/06d58bd1-e008-406e-b622-fba6eeb20f30" height="200"> <img src="https://github.com/user-attachments/assets/dca33db4-9784-4bc0-88f5-30bcdb845505" height="200">
 ### Description
 ATTiny-816/1616 Minibadge Devboard with breakouts for USART, I2C, DAC, and SPI, as well as two LEDs. There is also support for two ADC (analog to digital conversion) inputs and two PTC (touch sense) pins. It is programmed using UPDI via pin 6 (PROG4). either has 8KB or 16KB of flash
 ### Assembly
