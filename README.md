@@ -16,6 +16,14 @@ Supports:
 * [XIAO ESP32-S3 Sense (Camera/SD card)](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html)
 * Other XIAO ESPs are untested, but if the pinout is the same, it will work.
 
+Possible projects:
+* [Meshtastic node minibadge](https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html)
+* [Zigbee node minibadge](https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C6-p-5884.html)
+* [Picture/video recorder minibadge](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html)
+* [LED matrix minibadge](https://www.seeedstudio.com/6x10-RGB-MATRIX-for-XIAO-p-5771.html)
+* [GNSS minibadge](https://www.seeedstudio.com/L76K-GNSS-Module-for-Seeed-Studio-XIAO-p-5864.html)
+* [Temp/humidity/light sensor minibadge](https://www.seeedstudio.com/XIAO-LOG-p-6341.html)
+* [mmWave sensor minibadge](https://www.seeedstudio.com/Seeed-Studio-XIAO-24Ghz-mmwave-Human-Static-Presence-Module-p-6266.html)
 
 # 2025
 
