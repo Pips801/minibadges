@@ -37,4 +37,4 @@ Pairing the XIAO ESP32S3 with the Meshtastic app is as simple as with any other 
 * Download the Meshtastic App: Available on both the App Store (iOS) and Google Play (Android).
 * Bluetooth Pairing: Open the Meshtastic app and navigate to the Bluetooth page. Wait a moment for your XIAO ESP32S3 to appear in the list of available devices. It will display a Node ID and additional details in the app.
 * Enter Pairing Code: Select the XIAO ESP32S3 from the list and enter the pairing code 123456 when prompted. If it’s not 123456, check the terminal output after flashing to find the correct pairing code.
-* Set Region: After pairing, you’ll be prompted to select your region. Choose EU868 or the appropriate setting for your location. The device will restart to apply the region settings.
+* Set Region: After pairing, you’ll be prompted to select your region. Choose the appropriate setting for your location. The device will restart to apply the region settings.
