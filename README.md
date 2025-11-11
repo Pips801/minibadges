@@ -5,7 +5,7 @@ All of my Minibadges, including costs, files, and vendors.
 
 ## Seeed XIAO ESP32 Minibadge
 ### Images
-<img height="200" height="671" alt="image" src="https://github.com/user-attachments/assets/56bc166a-cdfb-4ba8-b20b-36bac40fdcd9" /> <img height="200" alt="image" src="https://github.com/user-attachments/assets/4d7cbb31-693a-40bc-a030-e4964991c0f7" /> <img height="200" alt="image" src="https://github.com/user-attachments/assets/8e693a99-57f9-4c6f-a857-efc77efbafc5" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/56bc166a-cdfb-4ba8-b20b-36bac40fdcd9" /> <img height="200" alt="image" src="https://github.com/user-attachments/assets/4d7cbb31-693a-40bc-a030-e4964991c0f7" /> <img height="200" alt="image" src="https://github.com/user-attachments/assets/ea113d91-fde4-4b09-8662-196e06823c00" />
 
 ## Description
 A Minibadge that can hold and power the Seeed XIAO ESP32 modules. The Minibadge has solderable jumper pads to connect 3.3v, 5v, SDA, and SCL to your ESP. This is untested, and will be updated, but I recommend just soldering the 3.3V pad. I would like to see if it's at all possible for the badge next year to work with this badge over I2C.
