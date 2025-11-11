@@ -3,7 +3,7 @@ All of my Minibadges, including costs, files, and vendors.
 
 # 2026
 
-## Seeed XIAO ESP32Minibadge
+## Seeed XIAO ESP32 Minibadge
 ### Images
 <img height="200" height="671" alt="image" src="https://github.com/user-attachments/assets/56bc166a-cdfb-4ba8-b20b-36bac40fdcd9" /> <img height="200" alt="image" src="https://github.com/user-attachments/assets/4d7cbb31-693a-40bc-a030-e4964991c0f7" /> <img height="200" alt="image" src="https://github.com/user-attachments/assets/8e693a99-57f9-4c6f-a857-efc77efbafc5" />
 
