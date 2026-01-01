@@ -11,6 +11,22 @@ All of my Minibadges, including costs, files, and vendors.
 ### Description
 Have you ever needed to charge your phone (or other stuff), but all you have lying around is a SAINTCON badge? You’re in luck! This minibadge will charge (up to 500mA) anything USB-C that you plug into it! Charge your phone! Charge your headphones! Charge a laptop! (not really) Charge another badge! The world is your ~oyster~ charger!
 
+## BOM (post-tariffs)
+| Vendor          | Item                   | Item total | Item quantity | Per item cost | Per unit cost | Per unit required |
+| --------------- | ---------------------- | ---------- | ------------- | ------------- | ------------- | ----------------- |
+| JLC PCB         | Board                  | $5.00      | 30            | $0.17         | $0.17         | 1                 |
+| JLC Assembly    | Setup fee              | $8.00      | 30            | $0.27         | $0.27         | 1                 |
+| JLC Assembly    | Stencil                | $1.50      | 30            | $0.05         | $0.05         | 1                 |
+| JLC Assembly    | Components             | $17.11     | 30            | $0.57         | $0.57         | 1                 |
+| JLC Assembly    | Extended component fee | $12.00     | 30            | $0.40         | $0.40         | 1                 |
+| JLC Assembly    | Assembly fee           | $2.29      | 30            | $0.08         | $0.08         | 1                 |
+| Shipping        | Shipping               | $13.35     | 30            | $0.45         | $0.45         | 1                 |
+| Tariffs & taxes | Sales Tax              | $4.08      | 30            | $0.14         | $0.14         | 1                 |
+
+| Project total cost | Per unit total cost | Quantity | Adjusted total | Adjusted per unit cost |
+| ------------------ | ------------------- | -------- | -------------- | ---------------------- |
+| $63.33             | $2.11               | 30       | $63.33         | $2.11                  |
+
 ## Seeed XIAO ESP32 Minibadge
 ### Images
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/56bc166a-cdfb-4ba8-b20b-36bac40fdcd9" /> <img height="200" alt="image" src="https://github.com/user-attachments/assets/4d7cbb31-693a-40bc-a030-e4964991c0f7" /> <img height="200" alt="image" src="https://github.com/user-attachments/assets/ea113d91-fde4-4b09-8662-196e06823c00" />
