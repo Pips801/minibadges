@@ -3,6 +3,14 @@ All of my Minibadges, including costs, files, and vendors.
 
 # 2026
 
+## Phone charger Minibadge
+### Images
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/54d607e8-1c9d-4507-b91b-085ac7ae23d6" /> <img height="200" alt="image" src="https://github.com/user-attachments/assets/58c8167b-5741-4be8-9aa7-92aff9328330" /> 
+
+
+### Description
+Have you ever needed to charge your phone (or other stuff), but all you have lying around is a SAINTCON badge? You’re in luck! This minibadge will charge (up to 500mA) anything USB-C that you plug into it! Charge your phone! Charge your headphones! Charge a laptop! (not really) Charge another badge! The world is your oyster charger!
+
 ## Seeed XIAO ESP32 Minibadge
 ### Images
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/56bc166a-cdfb-4ba8-b20b-36bac40fdcd9" /> <img height="200" alt="image" src="https://github.com/user-attachments/assets/4d7cbb31-693a-40bc-a030-e4964991c0f7" /> <img height="200" alt="image" src="https://github.com/user-attachments/assets/ea113d91-fde4-4b09-8662-196e06823c00" />
