@@ -9,7 +9,7 @@ All of my Minibadges, including costs, files, and vendors.
 
 
 ### Description
-Have you ever needed to charge your phone (or other stuff), but all you have lying around is a SAINTCON badge? You’re in luck! This minibadge will charge (up to 500mA) anything USB-C that you plug into it! Charge your phone! Charge your headphones! Charge a laptop! (not really) Charge another badge! The world is your oyster charger!
+Have you ever needed to charge your phone (or other stuff), but all you have lying around is a SAINTCON badge? You’re in luck! This minibadge will charge (up to 500mA) anything USB-C that you plug into it! Charge your phone! Charge your headphones! Charge a laptop! (not really) Charge another badge! The world is your ~oyster~ charger!
 
 ## Seeed XIAO ESP32 Minibadge
 ### Images
