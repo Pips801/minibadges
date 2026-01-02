@@ -5,7 +5,9 @@ All of my Minibadges, including costs, files, and vendors.
 
 ## IPEX to SMA adapter Minibadge
 ### Images
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/2ab27db9-1cfb-40c1-a7ce-e564fcbcc884" /> <img height="200" alt="image" src="https://github.com/user-attachments/assets/88bb5a57-d60c-4c9b-a570-ff8abd94c24f" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/8992f6ab-ad99-4faf-8929-f6cc97655ad8" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/27a663de-b79d-42aa-8dda-9e76afd93e2c" />
+
+
 
 ### Description
 A minibadge (meant for use with my Meshtastic Minibadge) that converts I-PEX to SMA, so you can have a vertical SMA antenna.
