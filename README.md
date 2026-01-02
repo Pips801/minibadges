@@ -5,9 +5,7 @@ All of my Minibadges, including costs, files, and vendors.
 
 ## IPEX to SMA adapter Minibadge
 ### Images
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/8992f6ab-ad99-4faf-8929-f6cc97655ad8" /><img height="200" alt="image" src="https://github.com/user-attachments/assets/27a663de-b79d-42aa-8dda-9e76afd93e2c" />
-
-
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/fe6e8b4a-570c-498f-bbea-443539e56bb6" /><img height="300" alt="image" src="https://github.com/user-attachments/assets/fd5d0eba-b6d8-4f31-aaef-47025d64c00c" />
 
 ### Description
 A minibadge (meant for use with my Meshtastic Minibadge) that converts I-PEX to SMA, so you can have a vertical SMA antenna.
@@ -16,7 +14,9 @@ A minibadge (meant for use with my Meshtastic Minibadge) that converts I-PEX to 
 
 ## Phone charger Minibadge
 ### Images
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/54d607e8-1c9d-4507-b91b-085ac7ae23d6" /> <img height="200" alt="image" src="https://github.com/user-attachments/assets/58c8167b-5741-4be8-9aa7-92aff9328330" /> 
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/52e0ae8d-3530-4acb-92ad-bbb28e298cbd" /><img height="300" alt="image" src="https://github.com/user-attachments/assets/652ade38-69f3-4d4b-a4e2-87d2434dbdcb" />
+
+
 
 
 ### Description
